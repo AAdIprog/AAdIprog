@@ -1,21 +1,95 @@
-# 💫 About Me:
-I am currently a first-year student at Vedam School of Technology, where I am building a strong technical foundation across multiple areas. My primary focus is on Data Structures and Algorithms using Java, alongside web development with HTML, CSS, and JavaScript.<br>Beyond my coursework, I am independently learning Go, React, and Rust to expand my skill set and stay current with industry-relevant technologies. This diverse learning path reflects my commitment to becoming a well-rounded software developer with expertise in both front-end and back-end development.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Aadi;Full+Stack+Developer;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+</h1>
 
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AAdIprog&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AAdIprog&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAdIprog&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AAdIprog&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+## 🚀 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> First-year student at **Vedam School of Technology** passionate about building impactful solutions through code.
+
+I'm on a journey to master the art of software development, combining academic rigor with self-driven learning. My approach is simple: **learn, build, iterate, and share**.
+
+### 🎯 Current Focus
+- 🧠 Mastering **Data Structures & Algorithms** with Java
+- 🌐 Building responsive web applications with **HTML, CSS & JavaScript**
+- ⚡ Exploring modern technologies: **Go, React & Rust**
+- 📚 Contributing to open-source projects
+- 💡 Solving problems on competitive programming platforms
+
+### 🌱 Learning Philosophy
+I believe in building a **T-shaped skill set** - deep expertise in core areas while maintaining breadth across the technology stack. My independent learning in Go, React, and Rust demonstrates my commitment to staying ahead of the curve.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AAdIprog&icon=2&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAdIprog&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AAdIprog&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AAdIprog&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
+</p>
+
+
+---
+
+## 💭 Dev Wisdom
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/AAdIprog">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:aadishah132@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <!-- Add your LinkedIn, Twitter, Portfolio, etc. -->
+</p>
+
+<p align="center">
+  📧 <strong>Email:</strong> aadishah132@gmail.com
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/AAdIprog">AAdIprog</a> | Open to collaboration and new opportunities!
+</p>
