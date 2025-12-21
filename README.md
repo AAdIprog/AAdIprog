@@ -42,20 +42,7 @@ I believe in building a **T-shaped skill set** - deep expertise in core areas wh
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAdIprog&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AAdIprog&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AAdIprog&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
-</p>
 
 
 ---
