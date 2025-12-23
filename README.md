@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=First+Year+CSE+Student;Building+%2B+Breaking+%2B+Learning;Java+%7C+Go+%7C+Rust+%7C+React;Competitive+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AAdIprog&color=00D9FF&style=for-the-badge)](https://github.com/AAdIprog)
 
 </div>
 
