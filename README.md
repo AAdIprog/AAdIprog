@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 Who Am I?
 
-I'm a **first-year student** at **Vedam School of Technology**, diving headfirst into the world of software engineering. While my peers are still figuring out their IDE, I'm already exploring **Go**, **Rust**, and **React** on my own—because why wait for the curriculum to catch up?
+I'm diving headfirst into the world of software engineering. While my peers are still figuring out their IDE, I'm already exploring **Go**, **Rust**, and **React** on my own—because why wait for the curriculum to catch up?
 
 ```javascript
 const aadi = {
