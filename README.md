@@ -206,6 +206,6 @@ Looking for contributors on interesting projects? Have an open source idea? Just
 
 ![](https://hit.yhype.me/github/profile?user_id=AAdIprog)
 
-**© 2024 Aadi Shah • Made with 💙 and lots of ☕**
+** 2025 Aadi Shah • Made with 💙 and lots of ☕**
 
 </div>
