@@ -120,39 +120,6 @@ skills = {
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AAdIprog&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAdIprog&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AAdIprog&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AAdIprog&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9)
-
-</div>
-
-
----
-
-## 🏆 Achievements Unlocked
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AAdIprog&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/AAdIprog)
-
-</div>
-
----
 
 ## 🚀 2025 Roadmap
 
